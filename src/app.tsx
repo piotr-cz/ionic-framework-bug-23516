@@ -19,7 +19,6 @@ import '@ionic/react/css/display.css'
 
 export function App() {
   return (
-    // Error here
     <IonApp>
       <Logo />
       <p>Hello Vite + Preact!</p>
